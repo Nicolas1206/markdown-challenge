@@ -13,4 +13,3 @@ Initially a graphic designer, i decided to move into the field of web developmen
     * Rocket League
     * Tekken
 * Vector logo
-hello bros
