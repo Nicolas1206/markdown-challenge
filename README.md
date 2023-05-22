@@ -16,4 +16,4 @@ Initially a graphic designer, i decided to move into the field of web developmen
 ### I am creative. If you have any problem we can work together on a solution.
 #### I was racing with my best friend and while trying to pass him, my front wheel climbed on his rear wheel and I did the biggest glide of my life.
 #### [I believe i can flyyyyyyyy](https://youtu.be/8-9KCDxBpT4?t=86)
-[previous]() || [Nicolas Mateo Uroz](https://github.com/Nicolas1206/markdown-challenge) || [next]()
+[previous](https://github.com/NathanLombardelli/markdown-challenge) || [Nicolas Mateo Uroz](https://github.com/Nicolas1206/markdown-challenge) || [next]()
