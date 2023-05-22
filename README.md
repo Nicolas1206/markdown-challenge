@@ -5,7 +5,7 @@
 Initially a graphic designer, i decided to move into the field of web development. :metal:
 | Birthday | Favorite color | Favorite food | pinneapple on pizza |
 |----------|----------------|---------------|---------------------|
-| 12 June  |      Blue      |     Pizza     |        Never!       |
+| 12 June  |      Blue      |     Pizza     |<ul><li>- [] OUI</li><li>- [x] NON</li></ul>|
 ## Hobbies
 * Coding
 * Beerpong
